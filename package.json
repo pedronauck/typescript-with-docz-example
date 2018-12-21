@@ -1,0 +1,14 @@
+{
+  "name": "docz-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docz dev --typescript"
+  },
+  "devDependencies": {
+    "docz": "^0.13.5",
+    "docz-theme-default": "^0.13.5",
+    "typescript": "^3.2.2"
+  }
+}
